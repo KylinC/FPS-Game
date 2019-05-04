@@ -27,7 +27,7 @@ Your browser does not support the video tag.
 
 ## Run
 
-- double click **Homework2.1.exe** to run in your PC, have fun.
+- double click **FPS_Game.exe** to run in your PC(don't change any data file in the same folder!!!), have fun.
 
 ## Pictures
 
