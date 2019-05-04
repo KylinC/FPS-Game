@@ -1,3 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.resS filter=lfs diff=lfs merge=lfs -text
 *.assets.resS filter=lfs diff=lfs merge=lfs -text
+*.unity3d filter=lfs diff=lfs merge=lfs -text
