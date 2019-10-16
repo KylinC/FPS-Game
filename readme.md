@@ -10,7 +10,7 @@ Your browser does not support the video tag.
 
 ## Developers
 
-**Zhaoyu Hu, Kylin Chen, Jinxi Li.** (SJTU)
+**Kylin Chen, Zhaoyu Hu, Jinxi Li.** (SJTU)
 
 ## Minimum required configuration
 
