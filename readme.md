@@ -31,9 +31,9 @@ Your browser does not support the video tag.
 
 ## Pictures
 
-![屏幕快照 2019-04-27 下午4.08.16](https://ws2.sinaimg.cn/large/006tNc79ly1g2ham5ozcrj31he0tsgxu.jpg)
+![屏幕快照 2019-04-27 下午4.08.16](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-10-16-game1.jpg)
 
-![屏幕快照 2019-04-27 下午4.12.46](https://ws3.sinaimg.cn/large/006tNc79ly1g2hamd1gsvj31gu0to7kx.jpg)
+![屏幕快照 2019-04-27 下午4.12.46](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-10-16-game2.jpg)
 
-![屏幕快照 2019-04-27 下午4.09.50](https://ws1.sinaimg.cn/large/006tNc79ly1g2hamang7dj31h20tm4jw.jpg)
+![屏幕快照 2019-04-27 下午4.09.50](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-10-16-game3.jpg)
 
