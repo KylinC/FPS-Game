@@ -4,7 +4,7 @@
 
 ## Video
 
-<video src="http://f.us.sinaimg.cn/003V8mzMlx07qjXblRWU0104120083os0E010.mp4?label=mp4_hd&template=1036x480.28.0&Expires=1556357226&ssig=s/BUYHkMiT&KID=unistore,video" width="650" height="450" controls="controls">
+<video src="https://pl-ali.youku.com/playlist/m3u8?vid=XNDQwMDcwNDQwNA&type=flv&ups_client_netip=&utid=yO0tFijy5XECAcp4Cx%2F%2FX0wk&ccode=0502&psid=8903fea24f63232759aeafe13671ff1b&duration=77&expire=18000&drm_type=1&drm_device=7&play_ability=1024&ups_ts=1571225545&onOff=0&encr=0&ups_key=eac7c6750babb9cc8ab8855a17b78216&sp=160" width="650" height="450" controls="controls">
 Your browser does not support the video tag.
 </video>
 
