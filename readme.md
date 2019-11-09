@@ -4,9 +4,7 @@
 
 ## Video
 
-<video src="https://pl-ali.youku.com/playlist/m3u8?vid=XNDQwMDcwNDQwNA&type=flv&ups_client_netip=&utid=yO0tFijy5XECAcp4Cx%2F%2FX0wk&ccode=0502&psid=8903fea24f63232759aeafe13671ff1b&duration=77&expire=18000&drm_type=1&drm_device=7&play_ability=1024&ups_ts=1571225545&onOff=0&encr=0&ups_key=eac7c6750babb9cc8ab8855a17b78216&sp=160" width="650" height="450" controls="controls">
-Your browser does not support the video tag.
-</video>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNDQwMDcwNDQwNA==" frameborder=0 allowfullscreen></iframe>
 
 ## Developers
 
