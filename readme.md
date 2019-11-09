@@ -4,9 +4,7 @@
 
 ## Video
 
-<video src="http://player.youku.com/embed/XNDQwMDcwNDQwNA==" width="650" height="450" controls="controls">
-Your browser does not support the video tag.
-</video>
+![IMG_6656](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-11-09-IMG_6656.GIF)
 
 ## Developers
 
