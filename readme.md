@@ -4,7 +4,9 @@
 
 ## Video
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNDQwMDcwNDQwNA==" frameborder=0 allowfullscreen></iframe>
+<video src="http://player.youku.com/embed/XNDQwMDcwNDQwNA==" width="650" height="450" controls="controls">
+Your browser does not support the video tag.
+</video>
 
 ## Developers
 
