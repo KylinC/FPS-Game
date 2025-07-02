@@ -6,9 +6,6 @@
 
 ![IMG_6656](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-11-09-IMG_6656.GIF)
 
-## Developers
-
-**Kylin Chen, Zhaoyu Hu, Jinxi Li.** (SJTU)
 
 ## Minimum required configuration
 
